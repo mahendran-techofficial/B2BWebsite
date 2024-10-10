@@ -225,6 +225,11 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--light);
 }
 
+
+.contactdetails h6, .contactdetails span{
+    color: var(--dark) !important;
+}
+
 .text-start span{
     color: var(--light);
 }
